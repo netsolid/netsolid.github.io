@@ -198,7 +198,7 @@ h2.title > b span {
 
 /*Таймер*/
 .countbox:before {
-    content: 'Hasta final de oferta queda:';
+    content: '';
     display: block;
     text-align: center;
     font-size: 18px;
